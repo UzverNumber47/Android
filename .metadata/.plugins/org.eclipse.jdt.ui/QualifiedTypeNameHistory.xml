@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.widget.ImageButton"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="android.widget.EditText"/>
+<fullyQualifiedTypeName name="com.dmbr.testapp.R.id"/>
+<fullyQualifiedTypeName name="com.dmbr.testapp.R.string"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="com.dmbr.testapp.MainActivity"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.dmbr.testapp.QuestionActivity"/>
+<fullyQualifiedTypeName name="com.actionbarsherlock.app.SherlockFragmentActivity"/>
+</qualifiedTypeNameHistroy>
